@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "isbn_toolkit"
+require "irb"
+
+puts "isbn_toolkit #{IsbnToolkit::VERSION}"
+puts "Try: IsbnToolkit.valid?('9780132350884')"
+IRB.start
