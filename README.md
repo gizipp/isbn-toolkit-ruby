@@ -123,11 +123,15 @@ end
 ## Development
 
 ```bash
-git clone https://github.com/gizipp/isbn_toolkit.git
-cd isbn_toolkit
+git clone https://github.com/gizipp/isbn-toolkit-ruby.git
+cd isbn-toolkit-ruby
 bin/setup
 bin/rspec
 ```
+
+## Related
+
+- [isbn_toolkit](https://github.com/gizipp/isbn_toolkit) — JavaScript/TypeScript version (npm)
 
 ## Contributing
 
