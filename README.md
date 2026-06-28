@@ -1,7 +1,7 @@
 # 📚 isbn_toolkit
 
 [![Gem Version](https://badge.fury.io/rb/isbn_toolkit.svg)](https://badge.fury.io/rb/isbn_toolkit)
-[![CI](https://github.com/gizipp/isbn_toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/gizipp/isbn_toolkit/actions/workflows/ci.yml)
+[![CI](https://github.com/gizipp/isbn-toolkit-ruby/actions/workflows/ci.yml/badge.svg)](https://github.com/gizipp/isbn-toolkit-ruby/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 All-in-one ISBN toolkit for Ruby — validate, convert, and lookup book metadata.
@@ -131,7 +131,7 @@ bin/rspec
 
 ## Contributing
 
-Bug reports and pull requests welcome at [github.com/gizipp/isbn_toolkit](https://github.com/gizipp/isbn_toolkit).
+Bug reports and pull requests welcome at [github.com/gizipp/isbn-toolkit-ruby](https://github.com/gizipp/isbn-toolkit-ruby).
 
 ## License
 
