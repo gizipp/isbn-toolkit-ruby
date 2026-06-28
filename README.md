@@ -132,6 +132,7 @@ bin/rspec
 ## Related
 
 - [isbn_toolkit](https://github.com/gizipp/isbn_toolkit) — JavaScript/TypeScript version (npm)
+- [isbn-toolkit-php](https://github.com/gizipp/isbn-toolkit-php) — PHP version (Composer)
 
 ## Contributing
 
